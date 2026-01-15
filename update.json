@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "url": "https://github.com/muludag718/MyAppUpdate/releases/latest/download/MyAppSetup.enc",
+  "url": "https://github.com/muludag718/MyAppUpdate/releases/latest/download/MyTrySetup.enc",
   "type": "enc",
   "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
 }
