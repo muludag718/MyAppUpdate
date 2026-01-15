@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/KULLANICIADI/MyAppUpdate/releases/latest/download/MyAppSetup.enc",
+  "type": "enc",
+  "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+}
