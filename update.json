@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "minSupportedVersion": "1.0.0",
 
-  "channel": "stable",
+  "channel": "Stable",
   "mandatory": false,
 
   "asset": "AutoUpdaterDemo_Setup.enc",
