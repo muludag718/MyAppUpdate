@@ -1,6 +1,16 @@
 {
+  "appName": "AutoUpdaterDemo",
   "version": "1.0.2",
-  "url": "https://github.com/muludag718/MyAppUpdate/releases/latest/download/MyTrySetup.enc",
-  "type": "enc",
-  "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+  "minSupportedVersion": "1.0.0",
+
+  "channel": "stable",
+  "mandatory": false,
+
+  "asset": "AutoUpdaterDemo_Setup.enc",
+  "hashSha256": "PUT_SHA256_HERE",
+
+  "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /CLOSEAPPLICATIONS /FORCECLOSEAPPLICATIONS /NOCANCEL",
+
+  "releaseNotes": "Hız iyileştirmeleri ve otomatik güncelleme altyapısı.",
+  "publishedAtUtc": "2026-01-16T12:00:00Z"
 }
