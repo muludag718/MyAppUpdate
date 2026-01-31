@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "minSupportedVersion": "1.0.0",
   "mandatory": false,
-  "asset": "MyApp.enc",
+  "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.2/AutoUpdaterDemo_Setup.enc",
   "hashSha256": "TEST",
   "silentArgs": "/S",
   "releaseNotes": "Bug fixes"
