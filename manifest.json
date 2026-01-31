@@ -1,0 +1,10 @@
+{
+  "appName": "MyTestApp",
+  "version": "1.0.1",
+  "minSupportedVersion": "1.0.0",
+  "mandatory": false,
+  "asset": "MyApp.enc",
+  "hashSha256": "TEST",
+  "silentArgs": "/S",
+  "releaseNotes": "Bug fixes"
+}
