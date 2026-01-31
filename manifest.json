@@ -4,7 +4,7 @@
   "minSupportedVersion": "1.0.0",
   "mandatory": false,
   "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.2/AutoUpdaterDemo_Setup.enc",
-  "hashSha256": "TEST",
+  "hashSha256": "740d98b6cec0c1dfde9cd9524f711a48c25fba8a862a8fd0f5a177220771db9b",
   "silentArgs": "/S",
   "releaseNotes": "Bug fixes"
 }
