@@ -5,6 +5,7 @@
   "mandatory": false,
   "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.3/MyTestApp_1.0.0.enc",
   "hashSha256": "dbafa929c58d4bc623e9356e761dc96b53acf02306940fe2bcec2d851ca96ed3",
+  "installMode": "silent",
   "silentArgs": "/S",
   "releaseNotes": "Bug fixes"
 }
