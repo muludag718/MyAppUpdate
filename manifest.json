@@ -1,11 +1,7 @@
 {
-  "appName": "MyTestApp",
+  "appName": "UpdaterApp",
   "version": "1.0.1",
-  "minSupportedVersion": "1.0.0",
-  "mandatory": false,
-  "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.3/MyTestApp_1.0.0.enc",
-  "hashSha256": "dbafa929c58d4bc623e9356e761dc96b53acf02306940fe2bcec2d851ca96ed3",
-  "installMode": "silent",
-  "silentArgs": "/S",
-  "releaseNotes": "Bug fixes"
+  "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.1/UpdaterApp_1.0.1.enc",
+  "hashSha256": "f3d43c3b61e629b3b025504eedd2b6a6d9c166175390930c1c154a1bd99aee13",
+  "releaseNotes": "New Version"
 }
