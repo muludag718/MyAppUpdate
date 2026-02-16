@@ -1,7 +1,7 @@
 {
   "appName": "UpdaterApp",
   "version": "1.0.1",
-  "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.1/UpdaterApp_1.0.1.enc",
-  "hashSha256": "7b27e74a96d129043eabf923d1f4d8d1c5335626a0b7bf09b8b4b4d4ea1c76e2",
+  "asset": "https://github.com/muludag718/MyAppUpdate/releases/download/v1.0.1/UpdaterAppSetup_1.0.1.enc",
+  "hashSha256": "5ed4fc5f0318710591342a4274c1e7e25e674c195f913447eac417fe6cfe66d9",
   "releaseNotes": "New Version"
 }
